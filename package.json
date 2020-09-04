@@ -1,0 +1,25 @@
+{
+  "name": "giogalbuchi-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giogalbuchi/giogalbuchi-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Gio <ggalbuchi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giogalbuchi/giogalbuchi-js-footer/issues"
+  },
+  "homepage": "https://github.com/giogalbuchi/giogalbuchi-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
